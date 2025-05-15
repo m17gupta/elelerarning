@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ade5f92.css",
+    "main.js": "/static/js/main.ed33035d.js",
+    "static/js/488.29d3b1d0.chunk.js": "/static/js/488.29d3b1d0.chunk.js",
+    "static/media/Colfax-Regular.woff": "/static/media/Colfax-Regular.137c48cebb153bceea6c.woff",
+    "static/media/Colfax-Medium.woff": "/static/media/Colfax-Medium.0c46dd8871af8c7d96a7.woff",
+    "static/media/Colfax-Bold.woff": "/static/media/Colfax-Bold.3295509bbb043c13f768.woff",
+    "static/media/Colfax-Light.woff": "/static/media/Colfax-Light.37cdc2b17ead352c9640.woff",
+    "static/media/Colfax-Black.woff": "/static/media/Colfax-Black.19f16673ade32b61a99c.woff",
+    "static/media/Colfax-Thin.woff": "/static/media/Colfax-Thin.eb560e1c1821fba7e3c3.woff",
+    "static/media/Colfax-Regular.woff2": "/static/media/Colfax-Regular.9e9d7787556f703e830d.woff2",
+    "static/media/Colfax-Medium.woff2": "/static/media/Colfax-Medium.630ac2f1792ba141c658.woff2",
+    "static/media/Colfax-Light.woff2": "/static/media/Colfax-Light.b69f7d7d4254097eed47.woff2",
+    "static/media/Colfax-Bold.woff2": "/static/media/Colfax-Bold.7133822e3a8d107ca238.woff2",
+    "static/media/Colfax-Thin.woff2": "/static/media/Colfax-Thin.8669afb3646bf23864f1.woff2",
+    "static/media/Colfax-Black.woff2": "/static/media/Colfax-Black.d44128c2d2062a7f901c.woff2",
+    "static/media/partner-bg.jpg": "/static/media/partner-bg.c3ac080ba40bbc36961a.jpg",
+    "index.html": "/index.html",
+    "static/media/banner-curve.svg": "/static/media/banner-curve.83f8e29ac392fd2c0cd5.svg",
+    "main.4ade5f92.css.map": "/static/css/main.4ade5f92.css.map",
+    "main.ed33035d.js.map": "/static/js/main.ed33035d.js.map",
+    "488.29d3b1d0.chunk.js.map": "/static/js/488.29d3b1d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ade5f92.css",
+    "static/js/main.ed33035d.js"
+  ]
+}
